@@ -1,6 +1,6 @@
-# 💫 Hi 👋, I'm Prakhar Deshmukh
+# Hi , I'm Prakhar Deshmukh
 
-Email Me 👉 ✉️ **pdprakhar03@gmail.com** 
+Email Me  **pdprakhar03@gmail.com** 
 
 - 🔭 **I’m currently working on:** AI & ML
 - 🌱 **I’m currently learning:** LLM's
