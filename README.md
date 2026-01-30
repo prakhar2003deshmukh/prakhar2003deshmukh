@@ -76,20 +76,11 @@
 * ⚙️ Model deployment & optimization
 
 ---
----
 
-## 📦 PROJECTS :: EXECUTION LOGS
+## 📦 PROJECT CARDS (TERMINAL VIEW)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="500"/>
-</p>
+### 🚗 PROJECT_01 : DRIVER DROWSINESS ALERT SYSTEM
 
----
-
-**### 🚗 DRIVER DROWSINESS ALERT SYSTEM  
-****[ Computer Vision | Real-Time | Safety-Critical ]**
-
-```bash
 root@ai-lab:~/projects$ cat driver_drowsiness_alert.info
 
 [ NAME ]        Driver Drowsiness Alert System
@@ -102,8 +93,26 @@ root@ai-lab:~/projects$ cat driver_drowsiness_alert.info
 [ STATUS ]      STABLE ✔️
 
 
-**### 🧠 PROJECT_02 : BRAIN STROKE PREDICTION
-**
+---
+### 🧪 PROJECT_02 : DRUG CLASSIFICATION SYSTEM
+
+```bash
+root@ai-lab:~/projects$ cat drug_classification.info
+
+[ NAME ]        Drug Classification using Machine Learning
+[ TYPE ]        Supervised Classification
+[ DATA ]        Medical / Patient Attributes
+[ MODELS ]      SVM | KNN | Decision Tree
+[ TECH ]        Python, NumPy, Pandas, Scikit-learn
+[ OPS ]         EDA, Feature Analysis, Model Tuning
+[ RESULT ]      High accuracy multi-class prediction
+[ STATUS ]      STABLE ✔️
+```
+
+---
+
+### 🧠 PROJECT_03 : BRAIN STROKE PREDICTION
+
 ```bash
 root@ai-lab:~/projects$ cat brain_stroke_prediction.info
 
@@ -116,23 +125,6 @@ root@ai-lab:~/projects$ cat brain_stroke_prediction.info
 [ RESULT ]      Early-risk prediction capability
 [ STATUS ]      DEPLOYMENT READY ⚙️
 ```
-
----
-
-**### ☕ PROJECT_03 : CAFE MANAGEMENT SYSTEM
-**
-```bash
-root@local-system:~/projects$ cat cafe_management.info
-
-[ NAME ]        Cafe Management System
-[ TYPE ]        Desktop Application
-[ STACK ]       Python | Tkinter
-[ MODULES ]     Billing | Inventory | Orders
-[ OPS ]         UI Design, Logic Handling
-[ RESULT ]      Efficient small-scale business automation
-[ STATUS ]      OPERATIONAL ✔️
-```
-
 
 ## 🧿 CONTACT / HANDSHAKE
 
