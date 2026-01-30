@@ -79,20 +79,17 @@
 
 ## 📦 PROJECT CARDS (TERMINAL VIEW)
 
-### 🧪 PROJECT_01 : DRUG CLASSIFICATION SYSTEM
+root@ai-lab:~/projects$ cat driver_drowsiness_alert.info
 
-```bash
-root@ai-lab:~/projects$ cat drug_classification.info
-
-[ NAME ]        Drug Classification using Machine Learning
-[ TYPE ]        Supervised Classification
-[ DATA ]        Medical / Patient Attributes
-[ MODELS ]      SVM | KNN | Decision Tree
-[ TECH ]        Python, NumPy, Pandas, Scikit-learn
-[ OPS ]         EDA, Feature Analysis, Model Tuning
-[ RESULT ]      High accuracy multi-class prediction
+[ NAME ]        Driver Drowsiness Alert System
+[ TYPE ]        Real-time Computer Vision System
+[ DATA ]        Live Video Stream (Webcam)
+[ MODELS ]      YOLO | MediaPipe
+[ TECH ]        Python, OpenCV
+[ OPS ]         Face Detection, Eye Aspect Ratio, Alert Trigger
+[ RESULT ]      Real-time drowsiness detection & alert system
 [ STATUS ]      STABLE ✔️
-```
+
 
 ---
 
