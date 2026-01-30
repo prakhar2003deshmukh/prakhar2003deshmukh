@@ -81,6 +81,7 @@
 
 ### 🚗 PROJECT_01 : DRIVER DROWSINESS ALERT SYSTEM
 
+```bash
 root@ai-lab:~/projects$ cat driver_drowsiness_alert.info
 
 [ NAME ]        Driver Drowsiness Alert System
