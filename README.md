@@ -78,7 +78,7 @@
 ---
 
 ## 📦 PROJECT CARDS (TERMINAL VIEW)
-
+```bash
 root@ai-lab:~/projects$ cat driver_drowsiness_alert.info
 
 [ NAME ]        Driver Drowsiness Alert System
