@@ -76,25 +76,34 @@
 * ⚙️ Model deployment & optimization
 
 ---
+---
 
-## 📦 PROJECT CARDS (TERMINAL VIEW)
+## 📦 PROJECTS :: EXECUTION LOGS
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="500"/>
+</p>
+
+---
+
+**### 🚗 DRIVER DROWSINESS ALERT SYSTEM  
+****[ Computer Vision | Real-Time | Safety-Critical ]**
+
 ```bash
 root@ai-lab:~/projects$ cat driver_drowsiness_alert.info
 
 [ NAME ]        Driver Drowsiness Alert System
 [ TYPE ]        Real-time Computer Vision System
-[ DATA ]        Live Video Stream (Webcam)
+[ INPUT ]       Live Webcam Feed
 [ MODELS ]      YOLO | MediaPipe
 [ TECH ]        Python, OpenCV
-[ OPS ]         Face Detection, Eye Aspect Ratio, Alert Trigger
-[ RESULT ]      Real-time drowsiness detection & alert system
+[ LOGIC ]       Face Detection → Eye Aspect Ratio → Alert Trigger
+[ RESULT ]      Detects drowsiness & raises instant alerts
 [ STATUS ]      STABLE ✔️
 
 
----
-
-### 🧠 PROJECT_02 : BRAIN STROKE PREDICTION
-
+**### 🧠 PROJECT_02 : BRAIN STROKE PREDICTION
+**
 ```bash
 root@ai-lab:~/projects$ cat brain_stroke_prediction.info
 
@@ -110,8 +119,8 @@ root@ai-lab:~/projects$ cat brain_stroke_prediction.info
 
 ---
 
-### ☕ PROJECT_03 : CAFE MANAGEMENT SYSTEM
-
+**### ☕ PROJECT_03 : CAFE MANAGEMENT SYSTEM
+**
 ```bash
 root@local-system:~/projects$ cat cafe_management.info
 
