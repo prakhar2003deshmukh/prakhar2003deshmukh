@@ -32,7 +32,7 @@
 > Name        : Prakhar Deshmukh
 > Degree      : MCA Integrated
 > Domain      : Artificial Intelligence | Machine Learning | Deep Learning
-> Mindset     : Hacker / Red-Team / Builder
+> Mindset     : Red-Team / Builder
 > Mode        : Silent. Precise. Relentless.
 ```
 
@@ -132,9 +132,7 @@ root@ai-lab:~/projects$ cat brain_stroke_prediction.info
 ```bash
 > LinkedIn : https://www.linkedin.com/in/prakhar-deshmukh-715733266/
 > Email    : pdprakhar03@gmail.com
-> Signal   : Open for collaboration
 ```
-
 ---
 
 ## ☠️ FINAL PAYLOAD
