@@ -92,6 +92,7 @@ root@ai-lab:~/projects$ cat driver_drowsiness_alert.info
 [ LOGIC ]       Face Detection → Eye Aspect Ratio → Alert Trigger
 [ RESULT ]      Detects drowsiness & raises instant alerts
 [ STATUS ]      STABLE ✔️
+```
 
 
 ---
