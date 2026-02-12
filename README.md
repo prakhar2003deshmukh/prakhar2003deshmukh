@@ -10,7 +10,7 @@
 
 ---
 
-## 🧬 SYSTEM BOOT SEQUENCE
+## 🧬 SYSTEM BOOT SEQUENCE.
 
 ```bash
 [BOOT] Initializing neural modules...
