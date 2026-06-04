@@ -1,4 +1,4 @@
-#  PRΛKHΛR DΞSHMUKH THIS SIDE!
+#  PRΛKHΛR DESHMUKH THIS SIDE!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;WELCOME+TO+THE+MATRIX;MCA+INTEGRATED+STUDENT;AI+%7C+ML+%7C+DEEP+LEARNING;RED+TEAM+MINDSET;BREAK+SYSTEMS.+BUILD+INTELLIGENCE." />
